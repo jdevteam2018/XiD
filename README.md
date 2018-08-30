@@ -2,7 +2,7 @@
 Cross-Platform iDevice Downgrader
 
 # Compiling
-sh compile.sh
+make
 
 # Running
 cd bin;
